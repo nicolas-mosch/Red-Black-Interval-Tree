@@ -6,7 +6,7 @@ for storing objects indexed by intervals.
 Its implementation was guided by chapters 13 and 14 of the book:
 Introduction to Algorithms (Thomas H. Cormen, Charles E. Leiserson, Ronald L Rivest, Clifford Stein)
 
-To learn more, see the [documentation](http://nicolas-mosch.github.io/red-black-interval-tree/documentation/).
+To learn more, see the [documentation](http://nicolas-mosch.github.io/Red-Black-Interval-Tree/documentation/).
 
 # License
 
