@@ -8,6 +8,10 @@ Introduction to Algorithms (Thomas H. Cormen, Charles E. Leiserson, Ronald L Riv
 
 To learn more, see the [documentation](http://nicolas-mosch.github.io/Red-Black-Interval-Tree/documentation/).
 
+# Disclaimer
+
+Red-Black-Interval-Tree has not been fully tested and should be used at the user's own risk.
+
 # License
 
 Red-Black-Interval-Tree is licensed under the terms of the MIT License. See the
